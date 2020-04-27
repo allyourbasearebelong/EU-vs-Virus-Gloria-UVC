@@ -3,7 +3,9 @@ This is a simple arduino based mechanism that avails of PIR to trigger UVC LED's
 
 Prototype code for #c08-gloria
 
-
+![Image](https://github.com/allyourbasearebelong/EU-vs-Virus-Gloria-UVC/blob/master/prep1.jpg)
+![Image](https://github.com/allyourbasearebelong/EU-vs-Virus-Gloria-UVC/blob/master/prep2.jpg)
+![Image](https://raw.githubusercontent.com/allyourbasearebelong/EU-vs-Virus-Gloria-UVC/master/prep3.jpg)
 
  
 
